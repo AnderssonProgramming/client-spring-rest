@@ -311,7 +311,7 @@ SERVER_PORT=8081
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la Licencia GPL-3.0 license. Ver el archivo `LICENSE` para más detalles.
 
 ---
 
