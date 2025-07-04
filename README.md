@@ -4,6 +4,7 @@
 ![Java](https://img.shields.io/badge/Java-17-orange.svg)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Cloud-green.svg)
 ![Maven](https://img.shields.io/badge/Maven-4.0.0-blue.svg)
+![Azure](https://img.shields.io/badge/Azure-Deployed-blue.svg)
 
 Un backend RESTful robusto desarrollado con Spring Boot para gestionar información de estudiantes en una base de datos MongoDB en la nube.
 
